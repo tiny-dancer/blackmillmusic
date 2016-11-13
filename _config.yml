@@ -1,34 +1,23 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl:
 
 # Site settings
-title: Awesome Title
+title: Blackmill
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Robert Card
+  pic: robert_card_dj
+  position: Founder, Producer
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
     - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
       url: #
 
 - name: Diana Petersen
@@ -45,15 +34,21 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/blackmillmusic
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/Blackmill-167224433307649
+  - title: spotify
+    url: https://open.spotify.com/artist/4kjWnaLfIRcLJ1Dy4Wr6tY
+  - title: soundcloud
+    url: https://soundcloud.com/blackmill
+  - title: apple
+    url: https://geo.itunes.apple.com/us/album/reach-for-glory/id423339211?mt=1&app=music
+  - title: amazon
+    url: https://music.amazon.com/artists/B004PW1SJ6/CATALOG?ref=dm_wcp_artist_link_pr_s
+  - title: youtube
+    url: https://www.youtube.com/user/BlackmillMusic
+  - title: tumblr
+    url: http://blackmill.tumblr.com/
 
 # Postal address (add as many lines as necessary)
 address:

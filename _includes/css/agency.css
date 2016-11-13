@@ -176,8 +176,11 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "Ksans-serif","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size:.8em;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -269,13 +272,15 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/blackmill_purple.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    padding-top: 60px;
+    min-height:600px
 }
 
 header .intro-text {
@@ -301,6 +306,9 @@ header .intro-text .intro-heading {
 }
 
 @media(min-width:768px) {
+    header {
+      min-height: 800px
+    }
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
@@ -349,9 +357,15 @@ section h3.section-subheading {
     }
 }
 
-.service-heading {
+a .service-heading {
     margin: 15px 0;
     text-transform: none;
+}
+
+a .service-heading {
+    margin: 15px 0;
+    text-transform: none;
+    color: #{{ site.data.template.color.secondary-dark }}
 }
 
 #portfolio .portfolio-item {
