@@ -1,0 +1,25 @@
+---
+title: Reach For Glory
+subtitle: February 2011 Album
+layout: default
+modal-id: 1
+date: 2011-02-02
+img: ../albums/reach-for-glory.jpg
+thumbnail: reach-for-glory-thumbnail.jpg
+alt: image-alt
+project-date: February 2011
+client: Start Bootstrap
+category: Web Development
+description:
+embed: https://embed.spotify.com/?uri=spotify%3Aalbum%3A0XHpO9qTpqJJQwa2zFxAAE
+social:
+  - title: spotify
+    url: https://open.spotify.com/album/0XHpO9qTpqJJQwa2zFxAAE
+  - title: apple
+    url: https://geo.itunes.apple.com/us/album/reach-for-glory/id423339211?mt=1&app=music
+  - title: amazon
+    url: https://music.amazon.com/albums/B004PWF4VO?ref=dm_sh_9444-ce0d-dmcp-1c59-9d805
+  - title: youtube
+    url: https://www.youtube.com/playlist?list=PL183794F79AA9CF02
+
+---

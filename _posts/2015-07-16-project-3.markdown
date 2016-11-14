@@ -1,0 +1,18 @@
+---
+title: The Comeback
+subtitle: After several years, new singles
+layout: default
+modal-id: 3
+date: 2015-07-16
+img: golden.png
+thumbnail: feel-that-love-again-thumbnail.jpg
+alt: image-alt
+project-date: April 2015
+client: Start Bootstrap
+category: Web Development
+description: So after 4 years I’ve managed to complete a song! This was originally a side project but continued it as I thought it had potential [Feel That Love Again]. Hope you like it! Don’t worry if it’s not your taste and is too different. Next track will be a Melodic Dubstep tune [Gaia], You might have noticed how I produce lots of different genres, that will always be the case.
+embed: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/112964615&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false
+social:
+  - title: youtube
+    url: https://www.youtube.com/playlist?list=PLJya5XeLqapXUxNv89hlZKL6bAz7Vd4c4
+---

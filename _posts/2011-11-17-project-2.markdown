@@ -1,0 +1,23 @@
+---
+title: Miracle
+subtitle: November 2011 Album
+layout: default
+modal-id: 2
+date: 2011-11-17
+img: escape.png
+thumbnail: miracle-thumbnail.jpg
+alt: image-alt
+project-date: November 2011
+client: Start Bootstrap
+category: Web Development
+description:
+embed: https://embed.spotify.com/?uri=spotify%3Aalbum%3A2ayhUoOppwZ5paYiXTRqqa"
+social:
+  - title: spotify
+    url: https://open.spotify.com/album/2ayhUoOppwZ5paYiXTRqqa
+  - title: apple
+    url: https://geo.itunes.apple.com/us/album/miracle/id491271894?mt=1&app=music
+  - title: youtube
+    url: https://youtu.be/rJ5vmzhe4rk
+
+---
